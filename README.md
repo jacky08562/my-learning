@@ -15,6 +15,10 @@
 - [2026-10-30 · 高性价比人生指南](notes/2026-10-30.md)
 - [2026-10-30 · 第一次用程序调用大模型](notes/2026-10-30-ai.md)
 
+## 指南
+
+- [用 GitHub 搜索找知识](guides/github-search.md) —— 限定符、实测对比、判断仓库好坏的四条标准
+
 ## 代码
 
 - [`ai/01-first-call.sh`](ai/01-first-call.sh) — 一条 curl 调通大模型
