@@ -19,6 +19,7 @@
 ## 指南
 
 - [用 GitHub 搜索找知识](guides/github-search.md) —— 限定符、实测对比、判断仓库好坏的四条标准
+- [GitHub 术语对照表](guides/github-glossary.md) —— 三十个必背的词,附五组最容易搞混的对照
 
 ## 模板
 
