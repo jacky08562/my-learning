@@ -19,6 +19,9 @@
 
 - [`ai/01-first-call.sh`](ai/01-first-call.sh) — 一条 curl 调通大模型
 - [`ai/02_chat.py`](ai/02_chat.py) — 只用标准库的 Python 版
+- [`ai/run.sh`](ai/run.sh) — 从 `.env` 读配置再调用,日常用这个
+
+> 密钥放在 `.env`(已在 `.gitignore` 中排除),配置模板见 [`.env.example`](.env.example)。**任何时候都不要把密钥直接写进代码或提交到仓库。**
 
 ## 我的读法
 
