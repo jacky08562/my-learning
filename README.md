@@ -20,6 +20,10 @@
 
 - [用 GitHub 搜索找知识](guides/github-search.md) —— 限定符、实测对比、判断仓库好坏的四条标准
 
+## 模板
+
+- [AI 任务简报](templates/ai-brief.md) —— **委托 AI 之前先填这个**。目标、验收标准、边界、检查点
+
 ## 代码
 
 - [`ai/01-first-call.sh`](ai/01-first-call.sh) — 一条 curl 调通大模型
